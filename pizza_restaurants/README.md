@@ -178,11 +178,3 @@ This project uses SQLit3:
 Use pytest to run tests
 
 - From the root directory (`pizza_restaurants`) run pytest: `pytest` or `pytest -x`
-
-## Authors
-
-- [John Maluki](https://github.com/john-maluki)
-
-## Copyright
-
-Released under the MIT License. See the [LICENSE](https://github.com/john-maluki/pizza_restaurants/blob/main/LICENSE) file.
