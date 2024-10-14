@@ -1,4 +1,4 @@
-# phase4-week1-restaurant-code-challange
+# phase4-week2-restaurant-code-challange
 
 # Pizza Restaurant API
 A Flask API for managing a Pizza Restaurant domain.
